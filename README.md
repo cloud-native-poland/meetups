@@ -24,4 +24,5 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 ### Links
 [Cloud Native Computing Foundation official site](https://www.cncf.io/)<br>
 [CNCF GitHub](https://github.com/cncf)<br>
-CNCF is part of the nonprofit [Linux Foundation](https://www.linuxfoundation.org/)
+CNCF is part of the nonprofit [Linux Foundation](https://www.linuxfoundation.org/)<br>
+[Facebook](https://www.facebook.com/CloudNativePoland/)<br>
